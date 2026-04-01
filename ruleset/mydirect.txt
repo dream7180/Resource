@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,wani.cc
+DOMAIN-SUFFIX,eagle.org
+DOMAIN-SUFFIX,imo.org
+DOMAIN-SUFFIX,gaga.art
+DOMAIN-SUFFIX,mobgi.com
