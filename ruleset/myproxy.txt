@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,last.fm
-DOMAIN-SUFFIX,dustinwin.top
++.last.fm
++.dustinwin.top

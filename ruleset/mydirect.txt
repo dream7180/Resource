@@ -1,5 +1,6 @@
-DOMAIN-SUFFIX,wani.cc
-DOMAIN-SUFFIX,eagle.org
-DOMAIN-SUFFIX,imo.org
-DOMAIN-SUFFIX,gaga.art
-DOMAIN-SUFFIX,mobgi.com
++.wani.cc
++.eagle.org
++.imo.org
++.gaga.art
++.mobgi.com
++daxiaamu.com
